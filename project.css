@@ -1,0 +1,104 @@
+body {
+	text-align: center;
+	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat-Black', sans-serif;
+	}
+/* navigation bar */
+
+.container-fluid {
+	padding:40px;
+}
+
+.navbar-brand {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+.nav-item {
+	padding: 0 5px;
+	margin:0.5rem;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+	font-family: 'Montserrat-light', sans-serif;
+}
+
+#donate{
+	background-color: #C70039;
+	color: white;
+	font-weight: bold;
+	padding:0.5rem 1rem;
+}
+nav{
+	margin-bottom: 0px;
+}
+.big-heading {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+/*About Us*/
+.carousel-item img{
+	width: 75%;
+	height: 450px;
+}
+
+.carousel-item{
+	padding-top: 10px;
+	padding-bottom: 10px;
+} 
+#jumbo {
+	padding-top: 0px;
+	text-align: justify;
+	padding-left:10em;	
+	padding-right: 10em;
+}
+/*forms*/
+.form-row{
+	padding-bottom: 30px
+}
+/* Donation Page */
+.donate {
+	border-style: solid;
+	margin: 0 30%;
+	padding: 5%;
+	margin-bottom:5%;
+	font-weight: bold;
+	background-color: #f0ffff;
+}
+input{
+	width: 100%;
+	margin-bottom: 0.5rem;
+}
+label{
+	float: left;
+}
+
+.donation_submit{
+	margin: 5% 0;
+}
+/* Thank you for Donating Page */
+#ThankYou {
+	padding: 8% 0%;
+}
+/* Footer */
+#footer {
+	text-align: center;
+	padding: 7% 15% 3%;
+	background-color: white;
+}
+
+.foot {
+	margin: 1%;
+}
+
+.p-foot {
+	color: grey;
+}
+
+i{
+	color: #212529;
+}
